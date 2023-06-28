@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CppEnjoyer69
+- 👋 Hi, I’m Rafał
 - 👀 I’m interested in coding and anime / robotics / mechanics
 - 🌱 I’m currently learning coding / robotics
 - 💞️ I’m looking to collaborate on robotics / coding
