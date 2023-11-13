@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafał, Polish Innovation and Technolodgy Olympics finalist, Explory 2022 finalist AGH Space Systems SLAVE
+- 👋 Hi, I’m Rafał, Polish Innovation and Technolodgy Olympics finalist, Explory 2022 finalist, AGH Space Systems software SLAVE
 - 👀 I’m interested in coding and anime / robotics / mechanics
 - 🌱 I’m currently learning coding / robotics
 - 💞️ I’m looking to collaborate on robotics / coding
