@@ -3,3 +3,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CppEnjoyer69&show_icons=true&theme=radical)
 
 
+![linux-linux-power](https://github.com/CppEnjoyer69/CppEnjoyer69/assets/102436271/6755f744-5df7-49dd-bd81-f04296da77e6)
