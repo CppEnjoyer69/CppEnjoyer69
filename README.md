@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Rafał, Polish Innovation and Technolodgy Olympics finalist, Explory 2022 finalist, AGH Space Systems software SLAVE
+👋 Hi, I’m Rafał, Polish Innovation and Technolodgy Olympics finalist, Explory 2022 finalist, AGH Space Systems software SLAVE
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CppEnjoyer69)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CppEnjoyer69&show_icons=true)
